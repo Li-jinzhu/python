@@ -1,5 +1,3 @@
-#Author: Li Jinzhu
-
 import datetime
 import re
 from queue import Queue
